@@ -43,7 +43,8 @@
     
     
 <p> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<a href="https://discord.com/users/1084226402473218088"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:abhinav.pathak210620@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>    
+<a href="https://discord.com/users/1084226402473218088"><img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" /></a>
+<a href="mailto:abhinav.pathak210620@gmail.com"><img src="![image](https://user-images.githubusercontent.com/128109884/228087318-0193f9dc-c925-406b-97db-05a20a5eaf65.png)
+"></a>    
     
 </p>   
