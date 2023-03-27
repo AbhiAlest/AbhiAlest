@@ -18,8 +18,12 @@
 
 ---
 
-## Programming Languages:
-<p align="center">
+<title> Programming Languages: </title>
+<style>
+		h1 {
+			text-align: center;
+		}
+	</style>
 
 <H2> Web Development  </h2>  
 <p> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
