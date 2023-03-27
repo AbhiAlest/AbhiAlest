@@ -43,8 +43,8 @@
     
     
 <p> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<a href="https://discord.com/users/1084226402473218088"><img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" /></a>
-<a href="mailto:abhinav.pathak210620@gmail.com"><img src="![image](https://user-images.githubusercontent.com/128109884/228087318-0193f9dc-c925-406b-97db-05a20a5eaf65.png)
-"></a>    
+<a href="https://discord.com/users/1084226402473218088"><img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt = "Discord" height = "40" style = "vertical-align:top margin:4px"/></a>
+<a href="mailto:abhinav.pathak210620@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="My Image" width="200" height="150" 
+></a>    
     
 </p>   
