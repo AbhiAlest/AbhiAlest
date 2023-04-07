@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="center">
-    I'm a front-end developer with 6 years of programming experience (my old GitHub account will not be updated anymore). I like coding websites related to mathematics and biology. In my free time, I enjoy tinkering with embedded systems (such as circuits) and breaking down electronics. 
+    I'm a front-end developer with 6 years of programming experience (my old GitHub account will not be updated anymore). I like coding websites related to mathematics and biology (especially anatomy). In my free time, I enjoy tinkering with embedded systems (such as circuits) and breaking down electronics.  
 </p>
 <br />
 
