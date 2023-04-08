@@ -36,8 +36,8 @@
 <p> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="React" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="Redux" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  alt="Redux" height="40" style="vertical-align:top; margin:4px"/>
 
 </p>      
     
