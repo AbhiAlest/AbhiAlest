@@ -4,12 +4,12 @@
 
 <!-- About Me -->
 <p align="center">
-    I'm a front-end developer with 6 years of programming experience. I like coding websites related to mathematics and biology (especially neuromuscular anatomy). In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
+    I'm a front-end developer with 6 years of programming experience. I enjoy coding websites related to mathematics and biology (especially neuromuscular anatomy). In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
 </p>
 
 <p align="center">
   <a href="https://github.com/AbhiAlest/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Nice to meet you!; Curious-minded Front-end%20developer; Passionate, self-driven&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nice to meet you!; I'm a curious-minded front-end%20developer; I'm a passionate and self-driven programmer &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
