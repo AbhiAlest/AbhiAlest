@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    <a href="https://github.com/anjalidhanjode28/github-readme-stats"><img alt="anjalidhanjode28 Github Stats" src="https://github-readme-stats.vercel.app/api?username=anjalidhanjode28&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="anjalidhanjode28" /></a>
+    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhiAlest&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="AbhiAlest" /></a>
 </div>
 
 ---
