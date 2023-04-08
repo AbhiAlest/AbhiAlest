@@ -1,5 +1,3 @@
-import java from 'programming-languages-logos/src/swift/swift.svg' 
-
 <h1 align="center">AbhiAlest</h1>
 <h3 align="center">A Diligent Front-End Developer </h3>
 
