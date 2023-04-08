@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Github Stats" src="https://camo.githubusercontent.com/a0c1da65e81a81175174f0ac0d58210f38dcb3b190c5f3bbc346367c2357ac56/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41626869416c6573742673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d747275652662675f636f6c6f723d303030303030303026746578745f636f6c6f723d333736386462267469746c655f636f6c6f723d333736386462" alt="AbhiAlest" /></a>
+    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhiAlest&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="AbhiAlest" /></a>
 </div>
 
 ---
