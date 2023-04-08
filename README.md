@@ -32,7 +32,7 @@
 ## Programming Languages:
 <p align="center">
 
-<H2> Web Development and Front-End  </h3>  
+ <div align="center"><h3 align="center">Front-End</h3> 
 <p> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -41,11 +41,11 @@
 
 </p>      
     
-<H2> General Use and Back-End </h3>     
-<p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">    
-<image src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="Java" height="50" style="vertical-align:top; margin:4px">
-<image src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="50" style="vertical-align:top; margin:4px">
-<image src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="50" style="vertical-align:top; margin:4px">
+ <div align="center"><h3 align="center">General Use and Back-End </h3>     
+<p><img src="https://camo.githubusercontent.com/436bd3cb20295ce9b3c3a182590c488c762adbd2b5583a36f126c9bbec016b56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532334646443334333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b" alt="Python" height="50" style="vertical-align:top; margin:4px">    
+<image src="https://img.shields.io/badge/-Java-fff?&logo=Java" alt="Java" height="50" style="vertical-align:top; margin:4px">
+<image src="https://camo.githubusercontent.com/36fbee75e16318b6217dd71b55a1d1608e1074519a16aea04d8aaab281e99922/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532422532422d2532333030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" height="50" style="vertical-align:top; margin:4px">
+<image src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs" height="40" style="vertical-align:top; margin:4px"/>
     
