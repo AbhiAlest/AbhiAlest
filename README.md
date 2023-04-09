@@ -42,7 +42,7 @@
 
 </p>      
     
- <div align="center"><h3 align="center">Back-End </h3>     
+ <div align="center"><h3 align="center">Back-End and General Use</h3>     
 <p><img src="https://camo.githubusercontent.com/436bd3cb20295ce9b3c3a182590c488c762adbd2b5583a36f126c9bbec016b56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532334646443334333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b" alt="Python" height="40" style="vertical-align:top; margin:4px">    
 <image src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <image src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C" height="40" style="vertical-align:top; margin:4px">
