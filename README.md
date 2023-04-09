@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="center">
-    I'm a front-end developer with 6 years of programming experience. I enjoy coding websites related to mathematics and biology (especially neuromuscular anatomy). In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
+    I'm a front-end developer with over 5 years of programming experience. I enjoy coding websites related to mathematics and biology (especially neuromuscular anatomy). In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
 </p>
 
 <p align="center">
