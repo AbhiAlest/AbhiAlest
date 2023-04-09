@@ -59,9 +59,10 @@
 <p align="center">
     
     
-<p> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="Github"/>   
+<p> <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  height="40" align="center" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="40" align="center" alt="Github"/>
+<img src="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"  height="40" align="center" alt="Postman"/>
+<img src="https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"  height="40" align="center" alt="NPM"/>
  </p>    
 
     
