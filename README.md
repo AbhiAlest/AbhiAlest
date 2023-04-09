@@ -28,8 +28,8 @@
 
 
 ---
-<p align="center">
-## Programming Languages:
+
+<h1 align="center">Programming Languages</h1>
 <p align="center">
 
  <div align="center"><h3 align="center">Front-End</h3> 
