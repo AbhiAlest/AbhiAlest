@@ -45,11 +45,14 @@
  <div align="center"><h3 align="center">Back-End </h3>     
 <p><img src="https://camo.githubusercontent.com/436bd3cb20295ce9b3c3a182590c488c762adbd2b5583a36f126c9bbec016b56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532334646443334333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b" alt="Python" height="40" style="vertical-align:top; margin:4px">    
 <image src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<image src="https://camo.githubusercontent.com/36fbee75e16318b6217dd71b55a1d1608e1074519a16aea04d8aaab281e99922/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532422532422d2532333030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <image src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C" height="40" style="vertical-align:top; margin:4px">
+<image src="https://camo.githubusercontent.com/36fbee75e16318b6217dd71b55a1d1608e1074519a16aea04d8aaab281e99922/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532422532422d2532333030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<image src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="40" style="vertical-align:top; margin:4px">
+    
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt "Express.js" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://camo.githubusercontent.com/e77d670250a5ef40c91a07c6f64c36b54e3e23f1fe61c386b9421fd3eb0ae2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt "SQL" height="40" style="vertical-align:top; margin:4px"/>
+<image src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="40" style="vertical-align:top; margin:4px">   <image src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
     
 
 </p>    
@@ -62,8 +65,11 @@
     
 <p> <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  height="40" align="center" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="40" align="center" alt="Github"/>
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"  height="40" align="center" alt="Powershell"/>    
 <img src="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"  height="40" align="center" alt="Postman"/>
 <img src="https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"  height="40" align="center" alt="NPM"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  height="40" align="center" alt="Arduino"/> 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"  height="40" align="center" alt="Rasberry Pi"/>     
  </p>    
 
     
