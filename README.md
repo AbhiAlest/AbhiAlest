@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    [![AbhiAlest's Github Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AbhiAlest&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="Abhi Alest's Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiAlest&theme=tokyonight" alt="AbhiAlest" /></a>
 </div>
 
 ---
