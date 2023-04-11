@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    [![](https://raw.githubusercontent.com/AbhiAlest/AbhiAlest/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    [![AbhiAlest's Github Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AbhiAlest&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
