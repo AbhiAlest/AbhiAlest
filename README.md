@@ -21,8 +21,10 @@
 
 <!-- GitHub Stats -->
 <div align="center">
+    
+<a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiAlest&theme=solarized-transparent" alt="AbhiAlest" /></a>
+    
 <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AbhiAlest&theme=react-dark"
-    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiAlest&theme=solarized-transparent" alt="AbhiAlest" /></a>
 </div>
 
 ---
