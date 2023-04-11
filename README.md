@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    <a href="https://github.com/AbhiAlest/github-readme-stats"><img alt="AbhiAlest's Github Stats" src="![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)" alt="AbhiAlest" /></a>
+    ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)
 </div>
 
 ---
