@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt "Express.js" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"  alt="Flask" height="40" style="vertical-align:top; margin:4px"/>   
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"  alt="MongoDB" height="40" style="vertical-align:top; margin:4px"/>       
 <img src="https://camo.githubusercontent.com/e77d670250a5ef40c91a07c6f64c36b54e3e23f1fe61c386b9421fd3eb0ae2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt "SQL" height="40" style="vertical-align:top; margin:4px"/>
 <image src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="40" style="vertical-align:top; margin:4px">   <image src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
 <image src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="40" style="vertical-align:top; margin:4px">    
