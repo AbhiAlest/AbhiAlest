@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/AbhiAlest/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Nice to meet you!; I'm a curious front-end developer!;  I'm a passionate and self-driven dev.   &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nice to meet you!; I'm a curious back-end developer!;  I'm a passionate and self-driven dev.   &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
