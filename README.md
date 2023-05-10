@@ -1,10 +1,10 @@
 <h1 align="center">AbhiAlest</h1>
-<h3 align="center">A Diligent Front-End Developer. </h3>
+<h3 align="center">A Diligent Back-End Developer. </h3>
 
 
 <!-- About Me -->
 <p align="center">
-    I'm a front-end developer with over 5 years of programming experience. I enjoy coding websites related to mathematics, biology (especially neuromuscular anatomy), and deep learning. In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
+    I'm a back-end developer with over 5 years of programming experience. I enjoy coding websites and APIs related to mathematics, biology (especially neuromuscular anatomy), and deep learning. In my free time, I also enjoy tinkering with embedded systems and breaking down old electronics.  
 </p>
 
 <p align="center">
