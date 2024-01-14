@@ -84,7 +84,6 @@
 <h1 align="center">Click to Contact Me</h1>
 <p align="center">    
 <a href="https://discord.com/users/1084226402473218088"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt = "Discord" height = "40" style = "vertical-align:top; margin:4px; margin-top: 120px;"/></a>
-<a href="mailto:abhinavpat0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style = "vertical-align:top; margin:4px; margin-top: 120px;"/>
-></a>    
+<a href="mailto:abhinavpat0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style = "vertical-align:top; margin:4px; margin-top: 120px;"/</a>    
     
   
