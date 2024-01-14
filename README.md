@@ -77,11 +77,12 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  height="40" align="center" alt="Postman"/>
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"  height="40" align="center" alt="NPM"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  height="40" align="center" alt="Arduino"/> 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"  height="40" align="center" alt="Rasberry Pi"/>     
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"  height="40" align="center" alt="Rasberry Pi"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"  height="40" align="center" alt="AWS"/>    
  </p>    
 
     
-<h1 align="center">Click to Contact Me</h1>
+<h1 align="center">Contact Information</h1>
 <p align="center">    
 <a href="https://discord.com/users/1084226402473218088"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt = "Discord" height = "40" style = "vertical-align:top; margin:4px; margin-top: 120px;"/></a>
 <a href="mailto:abhinavpat0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style = "vertical-align:top; margin:4px; margin-top: 120px;"/</a>    
